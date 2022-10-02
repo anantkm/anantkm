@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Person Detection and Re-Id Network as a part of my thesis. Please feel to reach me if you would like to collaborate or discuss on similar topic/s.
+I'm studying Master of Computer Science at University of California, Riverside. Currently, I'm enrolled in Artificial Intelligence, High Performance Computing and Data-Mining Techniques courses. 
 
 Also, check out my masters portfolio [here](https://anantkm.github.io/masters)
 
